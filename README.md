@@ -5,7 +5,7 @@
 ```js
 const Charles-F-Xavier = {
   code: [Javascript, PHP, HTML, CSS, MySQL, Java],
-  tools: [React, Node, Bootstrap, Materialize],
+  tools: [React, Node, Bootstrap, Materialize, JetBrains, VSC, NetBeans],
   work: ['Grupo Vortex'=>'Director de desarrollo'],
   learning:[Node, Javascript],
   aboutMe:{
