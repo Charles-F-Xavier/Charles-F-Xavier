@@ -20,7 +20,10 @@ const Charles-F-Xavier = {
   }
 }
 ```
-
+How to reach me 🌎:
+- [Instagram](https://www.instagram.com/javi._.rulitos/)
+- [LinkedIn](https://www.linkedin.com/in/javier-villalobos-ramírez-21b803260/)
+- [Twitter](https://twitter.com/Javi_1Rulitos)
 <!--
 **Charles-F-Xavier/Charles-F-Xavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
