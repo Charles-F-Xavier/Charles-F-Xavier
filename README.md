@@ -20,10 +20,15 @@ const Charles-F-Xavier = {
   }
 }
 ```
+
 How to reach me 🌎:
 - [Instagram](https://www.instagram.com/javi._.rulitos/)
 - [LinkedIn](https://www.linkedin.com/in/javier-villalobos-ramírez-21b803260/)
 - [Twitter](https://twitter.com/Javi_1Rulitos)
+
+![Charles-F-Xavier's Stats](https://github-readme-stats.vercel.app/api?username=Charles-F-Xavier&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Charles-F-Xavier's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Charles-F-Xavier&theme=tokyonight&hide_border=true)
+![Charles-F-Xavier's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-F-Xavier&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <!--
 **Charles-F-Xavier/Charles-F-Xavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
