@@ -1,12 +1,23 @@
-### Hi there 👋
+### Hi, I'm Javier 👋👨🏽‍💻
 
-
+<!-- Picture -->
 
 ```js
 const Charles-F-Xavier = {
-  pronouns: "he" | "him",
   code: [Javascript, PHP, HTML, CSS, MySQL, Java],
-  tools: [React, Node, Bootstrap, Materialize]
+  tools: [React, Node, Bootstrap, Materialize],
+  work: ['Grupo Vortex'=>'Director de desarrollo'],
+  learning:[Node, Javascript],
+  aboutMe:{
+    pronouns: "he" | "him",
+    ambitions: 'Develop innovative solutions and contribute to technological growth',
+    hobbies: ['Programming', 'Reading', 'Drawing'],
+    I_like: {
+      food: 'Sushi' | 'Pasta' | 'Chinese Food',
+      movies: 'Ciencia ficción' | 'Mystery',
+      music: 'Pop' | 'Latin Trap' | 'Rap'
+    }
+  }
 }
 ```
 
