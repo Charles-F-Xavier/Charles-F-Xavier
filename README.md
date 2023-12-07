@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+```js
+const Charles-F-Xavier = {
+  pronouns: "he" | "him",
+  code: [Javascript, PHP, HTML, CSS, MySQL, Java],
+  tools: [React, Node, Bootstrap, Materialize]
+}
+```
+
 <!--
 **Charles-F-Xavier/Charles-F-Xavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
