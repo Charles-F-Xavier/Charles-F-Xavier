@@ -6,7 +6,7 @@
 const Charles-F-Xavier = {
   code: [Javascript, PHP, HTML, CSS, MySQL, Java],
   tools: [React, Node, Bootstrap, Materialize, JetBrains, VSC, NetBeans],
-  work: ['Docente'=>'Área informática'],
+  work: ['Docente'=>'Área informática','Desarrollador'=>'Vtraxx'],
   learning:[Node, Javascript],
   aboutMe:{
     pronouns: "he" | "him",
